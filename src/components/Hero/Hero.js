@@ -8,8 +8,8 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Personal Porfolio
+        Stephen Prahl Jr <br />
+        Fullstack Developer
       </SectionTitle>
       <SectionText>
         Professional Fullstack Developer delivering Unique and breakthrough robost Services from UI/UX Design to Web Development, API's, and technical Applications.
