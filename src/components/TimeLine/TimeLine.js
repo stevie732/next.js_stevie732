@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        The purpose of nirmana_code is to help aspiring developers become better at coding.
+        My purpose is to help aspiring developers become better at coding, offer my services to business, and further my knowledge in technology.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
