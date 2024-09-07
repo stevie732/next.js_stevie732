@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Web App & API',
-    description:"Flask - This is a great project to learn many areas of Pythong, Flask, Bootstrap, and API's.",
+    description:"Flask - This is a great project to learn many areas of Python, Flask, Bootstrap, and API's.",
     image: './images/node.png',
     tags: ['Python', 'Flask', 'Bootstrap'],
     source: 'https://carport.onrender.com',
