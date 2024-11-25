@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'JavaScript API',
+    title: 'Bitcoin Currency',
     description: "JavaScript - A Great tool for programming and managing data, here is a currency project using async, a great API to learn for beginners.",
       image: './images/22.png',
       tags: ['JavaScript', 'Bootstrap', 'HTML5', 'CSS3'],
@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Web App & API',
+    title: 'Carport',
     description:"Flask - This is a great project to learn many areas of Python, Flask, Bootstrap, and API's.",
     image: './images/node.png',
     tags: ['Python', 'Flask', 'Bootstrap'],
@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Web Application',
+    title: 'Bookfair',
     description: "This is a web application using Python, Flask, Bootstrap, HTML5 & CSS3.",
       image: './images/poi.jpg',
       tags: ['Python', 'Flask', 'Bootstrap'],
@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'React.js App',
+    title: 'Pokes Most Wanted',
     description: "React.js - This is a web application using react.js",
     image: './images/javascript.webp',
     tags: ['React.js', 'JavaScript', 'node.js'],
